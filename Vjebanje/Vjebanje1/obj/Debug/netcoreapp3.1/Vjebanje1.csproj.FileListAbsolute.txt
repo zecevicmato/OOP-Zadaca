@@ -1,0 +1,13 @@
+D:\Programi\Vjebanje\Vjebanje1\obj\Debug\netcoreapp3.1\Vjebanje1.csprojAssemblyReference.cache
+D:\Programi\Vjebanje\Vjebanje1\obj\Debug\netcoreapp3.1\Vjebanje1.AssemblyInfoInputs.cache
+D:\Programi\Vjebanje\Vjebanje1\obj\Debug\netcoreapp3.1\Vjebanje1.AssemblyInfo.cs
+D:\Programi\Vjebanje\Vjebanje1\obj\Debug\netcoreapp3.1\Vjebanje1.csproj.CoreCompileInputs.cache
+D:\Programi\Vjebanje\Vjebanje1\bin\Debug\netcoreapp3.1\Vjebanje1.exe
+D:\Programi\Vjebanje\Vjebanje1\bin\Debug\netcoreapp3.1\Vjebanje1.deps.json
+D:\Programi\Vjebanje\Vjebanje1\bin\Debug\netcoreapp3.1\Vjebanje1.runtimeconfig.json
+D:\Programi\Vjebanje\Vjebanje1\bin\Debug\netcoreapp3.1\Vjebanje1.runtimeconfig.dev.json
+D:\Programi\Vjebanje\Vjebanje1\bin\Debug\netcoreapp3.1\Vjebanje1.dll
+D:\Programi\Vjebanje\Vjebanje1\bin\Debug\netcoreapp3.1\Vjebanje1.pdb
+D:\Programi\Vjebanje\Vjebanje1\obj\Debug\netcoreapp3.1\Vjebanje1.dll
+D:\Programi\Vjebanje\Vjebanje1\obj\Debug\netcoreapp3.1\Vjebanje1.pdb
+D:\Programi\Vjebanje\Vjebanje1\obj\Debug\netcoreapp3.1\Vjebanje1.genruntimeconfig.cache
